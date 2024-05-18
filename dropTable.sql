@@ -1,0 +1,9 @@
+drop table Tree_Planting_Projects_donors;
+drop table IsFor;
+drop table HasA;
+drop table Trees;
+drop table Tree_Planting_Projects;
+drop table Education_Programs;
+drop table Forest_Fire_Prevention_Actions;
+drop table Research_Stations;
+drop table Forests;
