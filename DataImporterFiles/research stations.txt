@@ -1,0 +1,400 @@
+1,Forest Ecology Station,Seattle,Forest Ecology,135
+2,Tree Growth Research Center,Boston,Tree Growth,28
+3,Conservation Biology Lab,San Francisco,Conservation Biology,64
+4,Forest Genetics Institute,Portland,Forest Genetics,150
+5,Arboreal Studies Center,Denver,Arboreal Studies,192
+6,Tree Physiology Lab,Chicago,Tree Physiology,89
+7,Woodland Research Facility,Austin,Woodland Ecology,77
+8,Forest Pathology Lab,Miami,Forest Pathology,105
+9,Urban Forestry Research Center,New York,Urban Forestry,53
+10,Boreal Forest Research Institute,Anchorage,Boreal Forests,181
+11,Temperate Forest Studies Station,Philadelphia,Temperate Forests,34
+12,Tree Biomechanics Lab,Los Angeles,Tree Biomechanics,71
+13,Forest Biodiversity Center,Houston,Forest Biodiversity,199
+14,Tropical Forest Research Institute,Honolulu,Tropical Forests,138
+15,Forest Hydrology Lab,Atlanta,Forest Hydrology,45
+16,Tree Disease Control Center,New Orleans,Tree Disease Control,112
+17,Silviculture Research Station,Richmond,Silviculture,29
+18,Agroforestry Research Lab,Sacramento,Agroforestry,87
+19,Forest Fire Management Center,Phoenix,Forest Fire Management,158
+20,Tree Ecology Research Facility,Las Vegas,Tree Ecology,49
+21,Forest Resources Institute,San Diego,Forest Resources,123
+22,Wildlife and Forests Lab,Dallas,Wildlife and Forests,193
+23,Forest Soil Science Center,San Jose,Forest Soil Science,17
+24,Tree Health Monitoring Lab,Tampa,Tree Health Monitoring,61
+25,Forestry and Climate Change Center,Orlando,Forestry and Climate Change,95
+26,Forest Products Research Facility,Minneapolis,Forest Products,102
+27,Conifer Research Station,Detroit,Conifer Studies,44
+28,Forest Restoration Lab,Columbus,Forest Restoration,169
+29,Tree Genetics and Breeding Center,Indianapolis,Tree Breeding,57
+30,Forest Canopy Research Institute,Charlotte,Forest Canopy,142
+31,Ecological Forestry Lab,Milwaukee,Ecological Forestry,119
+32,Forest Carbon Sequestration Center,San Antonio,Carbon Sequestration,131
+33,Tree and Shrub Research Facility,El Paso,Shrub Ecology,58
+34,Forest Insect Lab,Kansas City,Forest Entomology,93
+35,Woodland Habitat Research Station,Fort Worth,Woodland Habitats,170
+36,Forest Climate Adaptation Center,Oklahoma City,Climate Adaptation,106
+37,Forest Dynamics Lab,Memphis,Forest Dynamics,65
+38,Urban Tree Research Institute,Jacksonville,Urban Trees,148
+39,Tree Anatomy and Physiology Lab,Baltimore,Tree Anatomy,16
+40,Forest Conservation Strategies Center,Nashville,Conservation Strategies,83
+41,Tree Species Diversity Lab,San Bernardino,Species Diversity,197
+42,Forest Restoration and Reclamation Lab,Albuquerque,Forest Reclamation,38
+43,Forest Ecosystem Services Research Facility,Louisville,Ecosystem Services,187
+44,Forest Nutrient Cycling Lab,Tucson,Nutrient Cycling,13
+45,Forest Microbiology Research Station,Omaha,Forest Microbiology,114
+46,Forest Disturbance Lab,Newark,Forest Disturbances,76
+47,Tree Population Genetics Center,Toledo,Population Genetics,54
+48,Forest Ecosystem Health Lab,Buffalo,Ecosystem Health,96
+49,Forest Productivity Research Station,St. Louis,Forest Productivity,41
+50,Forest Biotechnology Center,Orlando,Forest Biotechnology,137
+51,Woodland Management Lab,Riverside,Woodland Management,23
+52,Forest Policy and Economics Research Facility,Lexington,Forest Policy,190
+53,Forest Plantations Research Lab,Stockton,Forest Plantations,48
+54,Forest and Watershed Management Institute,Cincinnati,Watershed Management,77
+55,Tree Root Biology Lab,Corpus Christi,Root Biology,25
+56,Forest Wildlife Habitat Center,Newark,Wildlife Habitat,111
+57,Urban Woodland Research Facility,Fremont,Urban Woodlands,40
+58,Forest Health and Protection Lab,Henderson,Forest Protection,147
+59,Woodland Carbon Research Station,Laredo,Woodland Carbon,10
+60,Forest Ecosystem Monitoring Lab,Madison,Ecosystem Monitoring,3
+61,Urban and Community Forestry Research Institute,Scottsdale,Community Forestry,180
+62,Forest and Fire Ecology Lab,Baton Rouge,Fire Ecology,50
+63,Forest Monitoring and Assessment Center,Durham,Forest Assessment,85
+64,Tree and Forest Genetics Lab,Garland,Genetics,194
+65,Forest Health and Restoration Center,Glendale,Health and Restoration,21
+66,Forest Water Management Lab,Hialeah,Water Management,84
+67,Forest Pathogen Research Institute,Chesapeake,Pathogen Research,127
+68,Forest Herbivory Research Station,Irving,Herbivory,56
+69,Forest Biomass Research Lab,Greensboro,Forest Biomass,134
+70,Forest and Tree Canopy Center,North Las Vegas,Tree Canopy,193
+71,Urban Tree Health Research Facility,Chula Vista,Urban Tree Health,6
+72,Forest and Range Management Center,Reno,Range Management,26
+73,Forest and Woodland Fire Lab,Chandler,Woodland Fire,77
+74,Forest Water Resources Research Station,Lubbock,Water Resources,42
+75,Forest and Grassland Ecology Lab,Spokane,Grassland Ecology,131
+76,Urban Forest Sustainability Center,Irvine,Urban Sustainability,105
+77,Forest and Tree Physiology Lab,Modesto,Tree Physiology,32
+78,Forest Soil and Tree Nutrition Lab,Huntington Beach,Tree Nutrition,171
+79,Forest Productivity and Growth Research Station,Glendale,Forest Growth,76
+80,Tree and Forest Ecology Research Institute,Akron,Forest Ecology,129
+81,Forest Disturbance and Recovery Lab,Tallahassee,Disturbance and Recovery,145
+82,Tree Carbon Dynamics Research Facility,Amarillo,Carbon Dynamics,19
+83,Forest Genetics and Biotechnology Lab,Huntsville,Forest Biotechnology,119
+84,Forest Fire Behavior Research Institute,Montgomery,Fire Behavior,4
+85,Tree and Forest Entomology Lab,Grand Prairie,Forest Entomology,178
+86,Forest Hydrology and Watershed Lab,Overland Park,Watershed Studies,99
+87,Forest Pathology and Entomology Research Facility,Tacoma,Pathology and Entomology,111
+88,Urban Forest and Green Spaces Research Center,Knoxville,Green Spaces,182
+89,Forest Soil Microbiology Lab,Shreveport,Soil Microbiology,91
+90,Forest Products and Timber Research Institute,Augusta,Timber Research,11
+91,Tree and Forest Disease Resistance Lab,Mobile,Disease Resistance,120
+92,Forest Soil and Water Research Station,Little Rock,Soil and Water,78
+93,Forest Restoration and Ecology Center,Moreno Valley,Forest Restoration,160
+94,Forest Carbon and Nutrient Cycling Lab,Glendale,Carbon and Nutrient Cycling,8
+95,Urban Forest Research Station,Yonkers,Urban Forestry,20
+96,Tree and Forest Hydrology Research Facility,Wichita,Hydrology,121
+97,Forest Soil and Nutrient Research Lab,Birmingham,Nutrient Research,97
+98,Tree and Forest Carbon Sequestration Center,Augusta,Carbon Sequestration,5
+99,Forest and Wildlife Management Research Station,Sioux Falls,Wildlife Management,62
+100,Urban Forest and Tree Health Research Institute,Boise,Tree Health,141
+101,Tree and Forest Genetics Research Center,Santa Ana,Genetics Research,48
+102,Forest and Woodland Restoration Lab,Oxnard,Restoration,86
+103,Forest Ecosystem Dynamics Research Facility,Bakersfield,Ecosystem Dynamics,124
+104,Forest Fire and Tree Health Lab,Olympia,Fire and Tree Health,15
+105,Urban Tree and Forest Research Station,Renton,Urban Forestry,77
+106,Forest Water Quality Research Lab,Fort Lauderdale,Water Quality,183
+107,Tree and Forest Pathology Research Institute,Tempe,Pathology,94
+108,Forest Ecology and Conservation Center,Sioux Falls,Ecology and Conservation,70
+109,Forest Carbon and Energy Dynamics Research Lab,Lancaster,Energy Dynamics,55
+110,Urban Tree and Forest Research Facility,Peoria,Urban Research,18
+111,Forest Health and Tree Protection Lab,Sterling Heights,Health and Protection,75
+112,Tree and Forest Pathogen Research Center,McKinney,Pathogen Research,138
+113,Urban Forest and Tree Health Lab,Chesapeake,Urban Tree Health,194
+114,Forest and Tree Ecosystem Services Research Station,Worcester,Ecosystem Services,2
+115,Forest and Tree Hydrology Research Institute,Frisco,Hydrology,115
+116,Urban Forestry and Ecosystem Research Center,Brownsville,Urban Ecosystems,96
+117,Forest Products and Timber Utilization Research Lab,Newport News,Timber Utilization,110
+118,Forest Fire and Climate Research Institute,Newport News,Fire and Climate,24
+119,Forest and Tree Genomics Lab,High Point,Genomics,137
+120,Urban Forest Monitoring Research Facility,Billings,Urban Monitoring,79
+121,Forest Ecosystem Resilience Lab,West Covina,Ecosystem Resilience,117
+122,Tree and Forest Genetics Center,Hampton,Genetics,95
+123,Forest and Woodland Fire Research Facility,Vancouver,Fire Research,153
+124,Forest Health Monitoring and Management Lab,Columbia,Health Monitoring,63
+125,Tree and Forest Ecosystem Health Center,Lowell,Ecosystem Health,84
+126,Urban Tree and Forest Canopy Research Institute,Eugene,Canopy Research,143
+127,Forest Water Resources and Hydrology Lab,Pembroke Pines,Water Resources,192
+128,Forest Soil and Plant Nutrition Research Station,Salem,Soil and Nutrition,45
+129,Forest Biodiversity and Conservation Lab,Cape Coral,Biodiversity,162
+130,Urban Forestry and Tree Growth Research Facility,Springfield,Tree Growth,99
+131,Forest Pathology and Tree Disease Research Center,Pasadena,Tree Disease,115
+132,Forest Ecosystem Management Research Lab,Denton,Ecosystem Management,33
+133,Urban Tree and Woodland Research Institute,Victorville,Woodland Research,191
+134,Forest and Climate Change Adaptation Lab,Beaumont,Climate Change,74
+135,Tree and Forest Soil Health Research Center,Vallejo,Soil Health,146
+136,Forest Water Use Efficiency Lab,Inglewood,Water Use Efficiency,19
+137,Forest Ecology and Soil Science Research Station,Independence,Soil Science,40
+138,Urban Forest and Tree Growth Monitoring Lab,Ann Arbor,Tree Growth,170
+139,Forest and Woodland Health Research Institute,El Monte,Woodland Health,122
+140,Forest Dynamics and Tree Physiology Lab,Simi Valley,Dynamics and Physiology,77
+141,Forest Soil Fertility Research Lab,Carrollton,Soil Fertility,1
+142,Tree and Forest Hydrology and Soil Lab,Coral Springs,Hydrology and Soil,81
+143,Forest Insect and Disease Monitoring Research Facility,Odessa,Insect and Disease,173
+144,Forest Genetics and Tree Breeding Lab,Antioch,Tree Breeding,25
+145,Urban Tree and Forest Conservation Research Center,Green Bay,Conservation,138
+146,Forest Ecology and Tree Biomechanics Lab,Everett,Tree Biomechanics,69
+147,Forest Fire and Management Research Station,West Jordan,Fire Management,147
+148,Tree and Forest Biodiversity Research Facility,Richmond,Forest Biodiversity,13
+149,Urban Tree Health Monitoring Lab,Clearwater,Tree Health Monitoring,33
+150,Forest Ecosystem Restoration and Fire Lab,Manchester,Ecosystem Restoration,37
+151,Forest and Soil Hydrology Research Institute,Westminster,Soil Hydrology,82
+152,Forest Fire and Ecology Research Lab,Murfreesboro,Fire Ecology,27
+153,Tree and Forest Genetics and Breeding Center,Miramar,Genetics and Breeding,166
+154,Forest Water and Soil Quality Research Station,College Station,Water and Soil Quality,58
+155,Urban Forestry and Green Infrastructure Lab,Costa Mesa,Green Infrastructure,67
+156,Forest Ecosystem and Tree Health Research Center,Sparks,Ecosystem and Health,131
+157,Forest Pathology and Tree Health Monitoring Lab,Miami Gardens,Tree Health Monitoring,159
+158,Urban Tree and Forest Ecology Research Facility,Blaine,Urban Ecology,66
+159,Forest and Tree Canopy Monitoring Research Institute,Concord,Canopy Monitoring,174
+160,Forest and Soil Nutrient Dynamics Lab,Bellevue,Nutrient Dynamics,102
+161,Urban Forest and Ecosystem Health Research Station,South Bend,Ecosystem Health,51
+162,Forest and Tree Genetics Research Facility,Tracy,Genetics Research,76
+163,Urban Forest and Tree Canopy Lab,West Valley City,Tree Canopy,8
+164,Forest Soil and Water Research Institute,Broken Arrow,Soil and Water,145
+165,Tree and Forest Ecosystem Dynamics Research Lab,Clovis,Ecosystem Dynamics,190
+166,Forest and Tree Health Monitoring Center,Pueblo,Tree Health,5
+167,Urban Forestry and Ecosystem Services Research Institute,San Buenaventura,Ecosystem Services,184
+168,Forest Genetics and Genomics Research Lab,North Charleston,Genomics,99
+169,Forest and Tree Ecosystem Management Center,San Mateo,Ecosystem Management,47
+170,Forest Pathology and Disease Research Station,Fargo,Disease Research,14
+171,Urban Forest Monitoring and Assessment Lab,Norwalk,Urban Monitoring,132
+172,Tree and Forest Hydrology Research Facility,Fort Smith,Hydrology,70
+173,Forest and Woodland Carbon Research Institute,El Cajon,Carbon Research,146
+174,Forest and Tree Soil Quality Lab,Burbank,Soil Quality,17
+175,Urban Forest and Green Spaces Monitoring Center,Daly City,Green Spaces,183
+176,Forest and Tree Health Research Lab,Richardson,Tree Health,61
+177,Forest Water Use Research Station,Pompano Beach,Water Use,152
+178,Urban Forestry and Ecosystem Monitoring Lab,Round Rock,Ecosystem Monitoring,9
+179,Forest and Tree Biodiversity Research Lab,North Richland Hills,Biodiversity,101
+180,Forest Health and Restoration Research Institute,Annandale,Restoration,188
+181,Tree and Forest Genetics Research Station,Las Cruces,Genetics Research,95
+182,Forest Fire and Ecosystem Dynamics Lab,Largo,Ecosystem Dynamics,72
+183,Forest and Tree Soil Health Research Institute,Warwick,Soil Health,185
+184,Urban Forest and Tree Growth Research Lab,Cambridge,Tree Growth,144
+185,Forest and Tree Canopy Dynamics Research Station,Mission Viejo,Canopy Dynamics,116
+186,Urban Forestry and Ecosystem Health Lab,New Bedford,Ecosystem Health,103
+187,Forest Pathology and Tree Disease Lab,Vacaville,Tree Disease,78
+188,Forest Genetics and Biotechnology Research Institute,San Angelo,Biotechnology,31
+189,Urban Forest and Tree Species Diversity Research Center,Bend,Species Diversity,50
+190,Forest and Tree Genetics and Breeding Research Facility,Longview,Tree Breeding,115
+191,Forest Health and Ecosystem Restoration Lab,Meridian,Ecosystem Restoration,188
+192,Tree and Forest Water Resources Research Center,Champaign,Water Resources,100
+193,Forest and Tree Health Monitoring Lab,Stamford,Health Monitoring,57
+194,Urban Forestry and Tree Pathology Research Station,Fishers,Pathology Research,135
+195,Forest Ecosystem and Soil Health Research Facility,Roseville,Soil Health,28
+196,Forest Pathology and Tree Disease Control Lab,Davie,Tree Disease Control,42
+197,Urban Forest and Tree Health Research Institute,Orem,Tree Health,98
+198,Forest and Tree Canopy Research Lab,Lehi,Canopy Research,167
+199,Forest Ecosystem Monitoring and Assessment Lab,Kirkland,Ecosystem Monitoring,126
+200,Forest Ecology Station,Seattle,Forest Ecology,282
+201,Tree Growth Research Center,Boston,Tree Growth,256
+202,Conservation Biology Lab,San Francisco,Conservation Biology,278
+203,Forest Genetics Institute,Portland,Forest Genetics,307
+204,Arboreal Studies Center,Denver,Arboreal Studies,217
+205,Tree Physiology Lab,Chicago,Tree Physiology,357
+206,Woodland Research Facility,Austin,Woodland Ecology,239
+207,Forest Pathology Lab,Miami,Forest Pathology,311
+208,Urban Forestry Research Center,New York,Urban Forestry,304
+209,Boreal Forest Research Institute,Anchorage,Boreal Forests,311
+210,Temperate Forest Studies Station,Philadelphia,Temperate Forests,226
+211,Tree Biomechanics Lab,Los Angeles,Tree Biomechanics,391
+212,Forest Biodiversity Center,Houston,Forest Biodiversity,218
+213,Tropical Forest Research Institute,Honolulu,Tropical Forests,396
+214,Forest Hydrology Lab,Atlanta,Forest Hydrology,268
+215,Tree Disease Control Center,New Orleans,Tree Disease Control,308
+216,Silviculture Research Station,Richmond,Silviculture,293
+217,Agroforestry Research Lab,Sacramento,Agroforestry,369
+218,Forest Fire Management Center,Phoenix,Forest Fire Management,278
+219,Tree Ecology Research Facility,Las Vegas,Tree Ecology,360
+220,Forest Resources Institute,San Diego,Forest Resources,288
+221,Wildlife and Forests Lab,Dallas,Wildlife and Forests,272
+222,Forest Soil Science Center,San Jose,Forest Soil Science,399
+223,Tree Health Monitoring Lab,Tampa,Tree Health Monitoring,239
+224,Forestry and Climate Change Center,Orlando,Forestry and Climate Change,316
+225,Forest Products Research Facility,Minneapolis,Forest Products,399
+226,Conifer Research Station,Detroit,Conifer Studies,367
+227,Forest Restoration Lab,Columbus,Forest Restoration,213
+228,Tree Genetics and Breeding Center,Indianapolis,Tree Breeding,332
+229,Forest Canopy Research Institute,Charlotte,Forest Canopy,284
+230,Ecological Forestry Lab,Milwaukee,Ecological Forestry,279
+231,Forest Carbon Sequestration Center,San Antonio,Carbon Sequestration,283
+232,Tree and Shrub Research Facility,El Paso,Shrub Ecology,303
+233,Forest Insect Lab,Kansas City,Forest Entomology,220
+234,Woodland Habitat Research Station,Fort Worth,Woodland Habitats,292
+235,Forest Climate Adaptation Center,Oklahoma City,Climate Adaptation,260
+236,Forest Dynamics Lab,Memphis,Forest Dynamics,383
+237,Urban Tree Research Institute,Jacksonville,Urban Trees,286
+238,Tree Anatomy and Physiology Lab,Baltimore,Tree Anatomy,336
+239,Forest Conservation Strategies Center,Nashville,Conservation Strategies,367
+240,Tree Species Diversity Lab,San Bernardino,Species Diversity,389
+241,Forest Restoration and Reclamation Lab,Albuquerque,Forest Reclamation,306
+242,Forest Ecosystem Services Research Facility,Louisville,Ecosystem Services,382
+243,Forest Nutrient Cycling Lab,Tucson,Nutrient Cycling,355
+244,Forest Microbiology Research Station,Omaha,Forest Microbiology,304
+245,Forest Disturbance Lab,Newark,Forest Disturbances,302
+246,Tree Population Genetics Center,Toledo,Population Genetics,393
+247,Forest Ecosystem Health Lab,Buffalo,Ecosystem Health,261
+248,Forest Productivity Research Station,St. Louis,Forest Productivity,246
+249,Forest Biotechnology Center,Orlando,Forest Biotechnology,360
+250,Woodland Management Lab,Riverside,Woodland Management,270
+251,Forest Policy and Economics Research Facility,Lexington,Forest Policy,241
+252,Forest Plantations Research Lab,Stockton,Forest Plantations,265
+253,Forest and Watershed Management Institute,Cincinnati,Watershed Management,299
+254,Tree Root Biology Lab,Corpus Christi,Root Biology,247
+255,Forest Wildlife Habitat Center,Newark,Wildlife Habitat,372
+256,Urban Woodland Research Facility,Fremont,Urban Woodlands,352
+257,Forest Health and Protection Lab,Henderson,Forest Protection,362
+258,Woodland Carbon Research Station,Laredo,Woodland Carbon,367
+259,Forest Ecosystem Monitoring Lab,Madison,Ecosystem Monitoring,362
+260,Urban and Community Forestry Research Institute,Scottsdale,Community Forestry,379
+261,Forest and Fire Ecology Lab,Baton Rouge,Fire Ecology,257
+262,Forest Monitoring and Assessment Center,Durham,Forest Assessment,230
+263,Tree and Forest Genetics Lab,Garland,Genetics,303
+264,Forest Health and Restoration Center,Glendale,Health and Restoration,318
+265,Forest Water Management Lab,Hialeah,Water Management,210
+266,Forest Pathogen Research Institute,Chesapeake,Pathogen Research,293
+267,Forest Herbivory Research Station,Irving,Herbivory,300
+268,Forest Biomass Research Lab,Greensboro,Forest Biomass,238
+269,Forest and Tree Canopy Center,North Las Vegas,Tree Canopy,216
+270,Urban Tree Health Research Facility,Chula Vista,Urban Tree Health,391
+271,Forest and Range Management Center,Reno,Range Management,280
+272,Forest and Woodland Fire Lab,Chandler,Woodland Fire,222
+273,Forest Water Resources Research Station,Lubbock,Water Resources,394
+274,Forest and Grassland Ecology Lab,Spokane,Grassland Ecology,214
+275,Urban Forest Sustainability Center,Irvine,Urban Sustainability,337
+276,Forest and Tree Physiology Lab,Modesto,Tree Physiology,379
+277,Forest Soil and Tree Nutrition Lab,Huntington Beach,Tree Nutrition,267
+278,Forest Productivity and Growth Research Station,Glendale,Forest Growth,233
+279,Tree and Forest Ecology Research Institute,Akron,Forest Ecology,302
+280,Forest Disturbance and Recovery Lab,Tallahassee,Disturbance and Recovery,238
+281,Tree Carbon Dynamics Research Facility,Amarillo,Carbon Dynamics,285
+282,Forest Genetics and Biotechnology Lab,Huntsville,Forest Biotechnology,356
+283,Forest Fire Behavior Research Institute,Montgomery,Fire Behavior,336
+284,Tree and Forest Entomology Lab,Grand Prairie,Forest Entomology,241
+285,Forest Hydrology and Watershed Lab,Overland Park,Watershed Studies,386
+286,Forest Pathology and Entomology Research Facility,Tacoma,Pathology and Entomology,319
+287,Urban Forest and Green Spaces Research Center,Knoxville,Green Spaces,229
+288,Forest Soil Microbiology Lab,Shreveport,Soil Microbiology,354
+289,Forest Products and Timber Research Institute,Augusta,Timber Research,304
+290,Tree and Forest Disease Resistance Lab,Mobile,Disease Resistance,293
+291,Forest Soil and Water Research Station,Little Rock,Soil and Water,372
+292,Forest Restoration and Ecology Center,Moreno Valley,Forest Restoration,216
+293,Forest Carbon and Nutrient Cycling Lab,Glendale,Carbon and Nutrient Cycling,390
+294,Urban Forest Research Station,Yonkers,Urban Forestry,393
+295,Tree and Forest Hydrology Research Facility,Wichita,Hydrology,380
+296,Forest Soil and Nutrient Research Lab,Birmingham,Nutrient Research,235
+297,Tree and Forest Carbon Sequestration Center,Augusta,Carbon Sequestration,274
+298,Forest and Wildlife Management Research Station,Sioux Falls,Wildlife Management,210
+299,Urban Forest and Tree Health Research Institute,Boise,Tree Health,395
+300,Tree and Forest Genetics Research Center,Santa Ana,Genetics Research,301
+301,Forest and Woodland Restoration Lab,Oxnard,Restoration,293
+302,Forest Ecosystem Dynamics Research Facility,Bakersfield,Ecosystem Dynamics,257
+303,Forest Fire and Tree Health Lab,Olympia,Fire and Tree Health,276
+304,Urban Tree and Forest Research Station,Renton,Urban Forestry,292
+305,Forest Water Quality Research Lab,Fort Lauderdale,Water Quality,204
+306,Tree and Forest Pathology Research Institute,Tempe,Pathology,288
+307,Forest Ecology and Conservation Center,Sioux Falls,Ecology and Conservation,240
+308,Forest Carbon and Energy Dynamics Research Lab,Lancaster,Energy Dynamics,275
+309,Urban Tree and Forest Research Facility,Peoria,Urban Research,367
+310,Forest Health and Tree Protection Lab,Sterling Heights,Health and Protection,277
+311,Tree and Forest Pathogen Research Center,McKinney,Pathogen Research,258
+312,Urban Forest and Tree Health Lab,Chesapeake,Urban Tree Health,302
+313,Forest and Tree Ecosystem Services Research Station,Worcester,Ecosystem Services,382
+314,Forest and Tree Hydrology Research Institute,Frisco,Hydrology,301
+315,Urban Forestry and Ecosystem Research Center,Brownsville,Urban Ecosystems,354
+316,Forest Products and Timber Utilization Research Lab,Newport,Timber Utilization,241
+317,Forest and Tree Hydrology Research Station,Boulder,Hydrology,265
+318,Urban Forestry Research Institute,Midland,Urban Forestry,380
+319,Forest Ecology and Management Lab,Charleston,Ecosystem Management,330
+320,Tree and Forest Genetics Research Facility,Columbia,Genetics Research,233
+321,Forest Soil Science Research Station,Santa Maria,Soil Science,301
+322,Urban Tree and Forest Research Center,Springfield,Urban Forestry,358
+323,Forest Climate Change Adaptation Lab,Brownsville,Climate Change,278
+324,Tree and Forest Canopy Research Institute,Jacksonville,Canopy Research,328
+325,Forest Hydrology and Soil Research Center,Sioux City,Soil Hydrology,219
+326,Urban Forest and Tree Health Research Lab,Santa Clarita,Tree Health,320
+327,Forest Pathology and Tree Disease Control Institute,McKinney,Tree Disease,298
+328,Forest Ecosystem Services Research Lab,Fargo,Ecosystem Services,258
+329,Urban Tree and Forest Research Facility,Carrollton,Urban Forestry,366
+330,Tree Physiology and Genetics Research Center,Waco,Tree Physiology,262
+331,Forest Soil Fertility Lab,Carlsbad,Soil Fertility,357
+332,Urban Forestry and Tree Growth Research Lab,Westminster,Tree Growth,247
+333,Forest Biodiversity and Conservation Institute,Boulder,Biodiversity,309
+334,Forest Fire and Ecology Research Center,Waterbury,Fire and Ecology,369
+335,Tree and Forest Health Research Facility,West Jordan,Forest Health,276
+336,Urban Tree and Forest Hydrology Research Lab,Beaumont,Hydrology,281
+337,Forest Dynamics Research Station,Roseville,Forest Dynamics,235
+338,Urban Forestry and Tree Research Institute,Miami,Urban Forestry,343
+339,Forest and Woodland Fire Research Lab,South Bend,Woodland Fire,337
+340,Tree and Forest Carbon Research Center,Tyler,Carbon Research,372
+341,Forest Ecosystem Monitoring Lab,West Covina,Ecosystem Monitoring,289
+342,Forest and Tree Health Monitoring Station,Billings,Health Monitoring,282
+343,Forest Pathology Research Center,Richmond,Pathology,210
+344,Urban Forestry and Ecosystem Health Lab,Lowell,Ecosystem Health,290
+345,Forest and Tree Canopy Research Facility,Eugene,Canopy Research,398
+346,Forest and Tree Hydrology Research Station,Pembroke Pines,Hydrology,353
+347,Forest Soil and Plant Nutrition Lab,Salem,Soil Nutrition,345
+348,Forest Biodiversity Research Center,Cape Coral,Biodiversity,367
+349,Urban Tree and Forest Growth Research Institute,Springfield,Tree Growth,301
+350,Forest Pathology and Tree Disease Lab,Pasadena,Tree Disease,269
+351,Forest Ecosystem Management Lab,Denton,Ecosystem Management,355
+352,Urban Tree and Woodland Research Center,Victorville,Woodland Research,391
+353,Forest and Climate Change Adaptation Research Station,Beaumont,Climate Change,260
+354,Tree and Forest Soil Health Lab,Vallejo,Soil Health,327
+355,Forest Water Use Efficiency Research Center,Inglewood,Water Use Efficiency,382
+356,Forest Ecology and Soil Science Lab,Independence,Soil Science,300
+357,Urban Forest and Tree Growth Monitoring Lab,Ann Arbor,Tree Growth,289
+358,Forest and Woodland Health Research Institute,El Monte,Woodland Health,366
+359,Forest Dynamics and Tree Physiology Research Center,Simi Valley,Dynamics and Physiology,283
+360,Forest Soil Fertility Research Lab,Carrollton,Soil Fertility,387
+361,Tree and Forest Hydrology and Soil Lab,Coral Springs,Hydrology and Soil,258
+362,Forest Insect and Disease Monitoring Research Station,Odessa,Insect and Disease,308
+363,Forest Genetics and Tree Breeding Lab,Antioch,Tree Breeding,331
+364,Urban Tree and Forest Conservation Research Center,Green Bay,Conservation,285
+365,Forest Ecology and Tree Biomechanics Lab,Everett,Tree Biomechanics,313
+366,Forest Fire and Management Research Lab,West Jordan,Fire Management,248
+367,Tree and Forest Biodiversity Research Facility,Richmond,Forest Biodiversity,339
+368,Urban Tree Health Monitoring Lab,Clearwater,Tree Health Monitoring,392
+369,Forest Ecosystem Restoration and Fire Lab,Manchester,Ecosystem Restoration,388
+370,Forest and Soil Hydrology Research Center,Westminster,Soil Hydrology,354
+371,Forest Fire and Ecology Research Station,Murfreesboro,Fire Ecology,236
+372,Tree and Forest Genetics and Breeding Center,Miramar,Genetics and Breeding,293
+373,Forest Water and Soil Quality Research Lab,College Station,Water and Soil Quality,321
+374,Urban Forestry and Green Infrastructure Lab,Costa Mesa,Green Infrastructure,367
+375,Forest Ecosystem and Tree Health Research Center,Sparks,Ecosystem and Health,303
+376,Forest Pathology and Tree Health Monitoring Lab,Miami Gardens,Tree Health Monitoring,218
+377,Urban Tree and Forest Ecology Research Institute,Blaine,Urban Ecology,380
+378,Forest and Tree Canopy Monitoring Research Center,Concord,Canopy Monitoring,354
+379,Forest and Soil Nutrient Dynamics Lab,Bellevue,Nutrient Dynamics,234
+380,Urban Forest and Ecosystem Health Research Station,South Bend,Ecosystem Health,336
+381,Forest and Tree Genetics Research Lab,Tracy,Genetics Research,389
+382,Urban Forest and Tree Canopy Lab,West Valley City,Tree Canopy,339
+383,Forest Soil and Water Research Institute,Broken Arrow,Soil and Water,275
+384,Tree and Forest Ecosystem Dynamics Research Lab,Clovis,Ecosystem Dynamics,331
+385,Forest and Tree Health Monitoring Center,Pueblo,Tree Health,252
+386,Urban Forestry and Ecosystem Services Research Institute,San Buenaventura,Ecosystem Services,308
+387,Forest Genetics and Genomics Research Lab,North Charleston,Genomics,398
+388,Forest and Tree Ecosystem Management Center,San Mateo,Ecosystem Management,358
+389,Forest Pathology and Disease Research Station,Fargo,Disease Research,338
+390,Urban Forest Monitoring and Assessment Lab,Norwalk,Urban Monitoring,330
+391,Tree and Forest Hydrology Research Facility,Fort Smith,Hydrology,239
+392,Forest and Woodland Carbon Research Institute,El Cajon,Carbon Research,344
+393,Forest and Tree Soil Quality Lab,Burbank,Soil Quality,372
+394,Urban Forest and Green Spaces Monitoring Center,Daly City,Green Spaces,284
+395,Forest and Tree Health Research Lab,Richardson,Tree Health,390
+396,Forest Water Use Research Station,Pompano Beach,Water Use,232
+397,Urban Forestry and Ecosystem Monitoring Lab,Round Rock,Ecosystem Monitoring,256
+398,Forest and Tree Biodiversity Research Lab,North Richland Hills,Biodiversity,221
+399,Forest Health and Restoration Research Institute,Annandale,Restoration,330
+400,Tree and Forest Genetics Research Station,Las Cruces,Genetics Research,373
