@@ -12,7 +12,6 @@ IS
     v_program_id INTEGER;
 
 BEGIN
-   
     
     OPEN research_stations_cur;
     LOOP
@@ -42,4 +41,3 @@ EXCEPTION
         DBMS_OUTPUT.PUT_LINE('An error occurred: ' || SQLERRM || 'in education program');
         RETURN l_added_stations; -- Return whatever stations were added before the error
 END;
-/
