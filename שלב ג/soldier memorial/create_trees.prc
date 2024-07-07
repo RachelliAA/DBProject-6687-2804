@@ -19,5 +19,5 @@ BEGIN
 EXCEPTION
     WHEN OTHERS THEN
         DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM||' in create_trees');
+        raise;
 END;
-/
