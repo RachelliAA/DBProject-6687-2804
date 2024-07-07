@@ -15,15 +15,14 @@ BEGIN
             EXECUTE IMMEDIATE 'UPDATE tree_planting_projects SET amount_of_trees = :1 WHERE planting_id = :2'
                 USING v_random_number, rec.planting_id;
 
-            DBMS_OUTPUT.PUT_LINE('Updated planting_id ' || rec.planting_id || ' with amount_of_trees: ' || v_random_number);       
+            --DBMS_OUTPUT.PUT_LINE('Updated planting_id ' || rec.planting_id || ' with amount_of_trees: ' || v_random_number);       
         END;
     END LOOP;
 
-    -- COMMIT; -- Commit changes if needed
+    -- COMMIT; 
 
     --DBMS_OUTPUT.PUT_LINE('Random numbers added and updated successfully.');
 EXCEPTION
     WHEN OTHERS THEN
         DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
 END add_column_to_projects;
-/
