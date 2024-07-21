@@ -1,6 +1,6 @@
 # Forests
-שלב א createing the tables##
-שלב ב queries##
+##שלב א createing the tables##
+##שלב ב queries##
 שלב ג functions and procedures##
 שלב ד integration and views##
 
